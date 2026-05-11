@@ -45,3 +45,16 @@ Step    Action    Business Outcome
 6    Segmentation    Creation of actionable segments for business strategies
 7    Executive insights    Development of conclusions and recommendations
 8    Publication    Reproducible delivery via GitHub
+
+🚀 How to run the project
+
+### Option 1: Google Colab (Recommended)
+1. **Open notebook**: 
+https://colab.research.google.com/github/djair7016-jpg/telecom-analysis/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb?hl=es#scrollTo=9fbb1a91
+2. **Upload datasets**: The CSV files must be in the `/datasets/` folder in Colab
+   - Upload `plans.csv`
+   - Upload `users_latam.csv` 
+   - Upload `usage.csv`
+
+3. **Run**: Runtime > Run all (or run cell by cell)
+
